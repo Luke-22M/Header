@@ -19,7 +19,10 @@
         width: 500px;
         background-color: rgb(218, 205, 20);
         font-size: 50px;
-        
+        border-radius: 50px;
+background: #e7eb14;
+box-shadow: inset 20px 20px 60px #c4c811,
+            inset -20px -20px 60px #ffff17;
         color: rgb(255, 255, 255);
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         padding: 1px;
